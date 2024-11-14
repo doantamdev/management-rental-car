@@ -45,3 +45,6 @@ Số thẻ:  sb-hm3sa27949259@personal.example.com
 Pass:    150203T@m
 
 sb-lign927942756@business.example.com
+
+id: Aa4Q3i95y1aXHGQJf-Gb34GlYKcay-GPa9zsKkOJuZrC8Hkb1-8yIaEpFcRv07svPSHPReD9Wx7YTXuI
+sk: EF5TSjF0jW_JBFQa1q8dTMpLgUh1NOUKY1Qd7msLWjoojq-W-vwCR8ZmdV-xtJdC4txNNseihD8mQu5Y
